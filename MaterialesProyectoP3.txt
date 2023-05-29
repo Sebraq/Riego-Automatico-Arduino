@@ -1,0 +1,12 @@
+Materiales:
+-Arduino UNO
+-Protoboard
+-Sensor de humedad
+-2 LEDs(Rojo y Verde)
+-2 Resistencias de 220 ohms
+-1 Buzzer activo
+-1 Bomba sumergible
+-1 metro de manguera
+-Jumpers
+-Bateria 9V
+-1 Relee
